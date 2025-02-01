@@ -1,0 +1,37 @@
+##
+## Rules for SimpleBrain
+#
+# These rules have been generated using ChatGPT:
+# https://chatgpt.com/c/679e1e85-10c4-800a-84cb-85ef16930efc
+#
+message,response
+*project update*, Here’s the latest update on your project
+*task deadline*, The deadline for this task is coming up soon
+*document upload*, I found the latest uploaded document for you
+*meeting schedule*, Here’s the upcoming meeting schedule
+*assigned to*, This task is assigned to the following person
+*due date*, The due date for this task is as follows
+*task progress*, Here’s the current progress on this task
+*new messages*, You have unread messages in your project
+*recent discussion*, Here’s what was recently discussed
+*project summary*, Here’s a summary of the project so far
+*team activity*, Here’s what the team has been working on
+*overdue tasks*, These tasks are overdue and need attention
+*pending approvals*, Here are the tasks pending approval
+*completed tasks*, These tasks have been marked as complete
+*who is responsible*, This person is responsible for that task
+*project timeline*, Here’s the overall timeline for your project
+*task priority*, The priority level for this task is as follows
+*related documents*, These documents are related to your query
+*project owner*, The owner of this project is listed here
+*last update*, The last update on this was made by someone
+*meeting notes*, Here are the notes from your last meeting
+*budget details*, Here’s the budget breakdown for your project
+*client feedback*, This is the latest feedback from the client
+*team workload*, Here’s an overview of the team’s workload
+*who uploaded*, This document was uploaded by a team member
+*what changed*, These are the recent changes made to the project
+*important decisions*, These key decisions were made recently
+*task dependencies*, This task depends on the following others
+*request status*, The current status of your request is shown here
+*, I don’t know how to respond to this message.
